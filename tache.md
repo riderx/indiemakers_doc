@@ -27,9 +27,9 @@ Par default les tache sont crée en status "Fait" si tu ne precise pas.
 
 Cela te permet de modifier une tache d'un projet, voici les valeurs que tu peux modifier :
 
-* **contenue**: Une description de la tache réalisé
-* **status**: Le Status de la tache, il peut etre:
-  * A faire
+* **contenue**: Une description de la tâche réalisée
+* **status**: Le Status de la tache, il peut être:
+  * À faire
   * Fait
 
 ```text
@@ -38,7 +38,7 @@ Cela te permet de modifier une tache d'un projet, voici les valeurs que tu peux 
 
 ## Liste :hashtag
 
-Cela te permet de voir la liste de toutes tes taches par projet
+Cela te permet de voir la liste de toutes tes tâches par projet
 
 ```text
 /im tache liste hashtag: indiemakers
@@ -46,7 +46,7 @@ Cela te permet de voir la liste de toutes tes taches par projet
 
 ## Liste :hashtag @Mention
 
-Cela te permet de voir la liste de toutes les taches d'un projet d'un maker
+Cela te permet de voir la liste de toutes les tâches d'un projet d'un Maker.
 
 ```text
 /im tache liste hashtag: indiemakers maker: @martindonadieu
@@ -54,7 +54,7 @@ Cela te permet de voir la liste de toutes les taches d'un projet d'un maker
 
 ## Supprimer :hashtag :id
 
-Cela te permet de supprimer une tache d'un projet qui t'appartiens
+Cela te permet de supprimer une tache d'un projet qui t'appartient
 
 ```text
 /im projet supprimer: indiemaker
