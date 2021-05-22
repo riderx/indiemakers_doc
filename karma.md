@@ -14,7 +14,7 @@ Cela te permet de donner du karma a un Maker
 
 ## Enlever @Mention
 
-Cela te permet de d'enlever du karma a un Maker
+Cela te permet d'enlever du karma à un Maker
 
 ```text
 /im karma enlever maker: @martindonadieu
