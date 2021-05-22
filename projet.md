@@ -22,6 +22,8 @@ Cela te permet de modifier ton compte Maker, voici les valeurs que tu peux modif
 * **color**: Une couleur en [Hexa](https://www.color-hex.com/) pour ton projet
 * **nom**: Le nom de ton projet
 * **description**: La description de ton projet
+* **mois:** Mois de création 
+* **année**: Année de création 
 * **website**: L'url de ton site perso \(avec https://\)
 * **categorie:** La catégorie de ton projet, les valeurs possible sont :
   * Saas
@@ -35,7 +37,6 @@ Cela te permet de modifier ton compte Maker, voici les valeurs que tu peux modif
 * **stripe\_key**: Ta clé api [stripe](https://dashboard.stripe.com/apikeys)
 * **github**: Lien vers l'URL Github du projet \(avec https://\)
 * **open\_source**: Le projet est il open-source?
-
   * Oui
   * Non
 
@@ -60,7 +61,7 @@ La stripe key permet de récupérer automatique toutes Les ventes passées sur t
 Une fois l'initialisation faite, tes revenues serons mis à jour tous les lundi a 9h pour le mois en cours !  
 Pour l'obtenir, rendez-vous ici :
 
-{% embed url="https://dashboard.stripe.com/apikeys" %}
+{% embed url="https://dashboard.stripe.com/apikeys" caption="" %}
 
 Crée une **Restricted keys :**
 
@@ -72,7 +73,7 @@ Avec les droits **Charges** en lecture seule.
 
 ![](.gitbook/assets/screenshot-2021-05-12-at-16.08.45.png)
 
-## Liste 
+## Liste
 
 Cela te permet de voir la liste de tous tes projets
 

@@ -36,5 +36,3 @@ Cela te permet de voir le classement des markers, classé par karma
 /im karma classement
 ```
 
-
-
