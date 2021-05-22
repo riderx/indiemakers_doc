@@ -1,12 +1,12 @@
 ---
-description: Gérer ses projet
+description: Gérer ses projets
 ---
 
 # 🪴 Projet
 
 ## Ajouter :hashtag
 
-Le **hashtag** est un mot seulement composé de lettre sans espace ni charactere speciaux, il servira a identifier ton projet et dois etre unique.
+Le **hashtag** est un mot seulement composé de lettre sans espace ni caractères spéciaux, il servira a identifier ton projet et doit être unique.
 
 ```text
 /im projet ajouter hashtag: indiemaker
@@ -16,14 +16,14 @@ Le **hashtag** est un mot seulement composé de lettre sans espace ni charactere
 
 Cela te permet de modifier ton compte Maker, voici les valeurs que tu peux modifier :
 
-* **logo**: L'url vers le logo de ton projet
-* **couverture**: L'url vers l'image de couverture de ton projet
-* **emoji**: Un emoji qui représente ton projet
+* **logo**: L'URL vers le logo de ton projet
+* **couverture**: L'URL vers l'image de couverture de ton projet
+* **emoji**: Un émoji qui représente ton projet
 * **color**: Une couleur en [Hexa](https://www.color-hex.com/) pour ton projet
 * **nom**: Le nom de ton projet
 * **description**: La description de ton projet
 * **website**: L'url de ton site perso \(avec https://\)
-* **categorie:** La categorie de ton projet, les valeurs possible sont  :
+* **categorie:** La catégorie de ton projet, les valeurs possible sont :
   * Saas
   * Application
   * Communauté
@@ -33,8 +33,8 @@ Cela te permet de modifier ton compte Maker, voici les valeurs que tu peux modif
   * Ecommerce
   * Autre
 * **stripe\_key**: Ta clé api [stripe](https://dashboard.stripe.com/apikeys)
-* **github**: Lien vers l'url github du projet \(avec https://\)
-* **open\_source**: Le projet est il open source?
+* **github**: Lien vers l'URL Github du projet \(avec https://\)
+* **open\_source**: Le projet est il open-source?
 
   * Oui
   * Non
@@ -44,10 +44,10 @@ Cela te permet de modifier ton compte Maker, voici les valeurs que tu peux modif
 ```
 
 {% hint style="warning" %}
-Astuce: pour utiliser un champ clique dessus ou ecris son nom puis "**:**" et utilise la touche **TAB**
+Astuce: pour utiliser un champ clique dessus ou écris son nom puis "**:**" et utilise la touche **TAB**
 {% endhint %}
 
-Les valeurs peuvent se cummuler :
+Les valeurs peuvent se cumuler :
 
 ```text
 /im projet modifier hashtag: indiemaker emoji: 🔥 color: #fff
@@ -55,10 +55,10 @@ Les valeurs peuvent se cummuler :
 
 ### Stripe\_key
 
-La stripe key permet de recupéré automatique toute Les ventes passé sur ton projet pour les ajouter aux revenue.
+La stripe key permet de récupérer automatique toutes Les ventes passées sur ton projet pour les ajouter aux revenues.
 
-Une fois l'initialisation faite, tes revenue serons mis a jours tous les lundi a 9h pour le mois en cours !  
-Pour l'obtenir, vas ici :
+Une fois l'initialisation faite, tes revenues serons mis à jour tous les lundi a 9h pour le mois en cours !  
+Pour l'obtenir, rendez-vous ici :
 
 {% embed url="https://dashboard.stripe.com/apikeys" %}
 
@@ -66,7 +66,7 @@ Crée une **Restricted keys :**
 
 ![](.gitbook/assets/screenshot-2021-05-12-at-16.07.25.png)
 
-avec les droits **Charges** en lecture seule.
+Avec les droits **Charges** en lecture seule.
 
 ![](.gitbook/assets/screenshot-2021-05-12-at-16.07.59.png)
 
@@ -82,7 +82,7 @@ Cela te permet de voir la liste de tous tes projets
 
 ## Liste @Mention
 
-Cela te permet de voir la liste de tous les projets d'un maker
+Cela te permet de voir la liste de tous les projets d'un Maker
 
 ```text
 /im projet liste maker: @martindonadieu
@@ -90,7 +90,7 @@ Cela te permet de voir la liste de tous les projets d'un maker
 
 ## Voir :hashtag
 
-Cela te permet de voir un projet qui t'appartiens
+Cela te permet de voir un projet qui t'appartient
 
 ```text
 /im projet voir hashtag
@@ -106,7 +106,7 @@ Cela te permet de voir un projet d'un autre maker
 
 ## Supprimer :hashtag
 
-Cela te permet de supprimer un projet qui t'appartiens
+Cela te permet de supprimer un projet qui t'appartient
 
 ```text
 /im projet supprimer: indiemaker
