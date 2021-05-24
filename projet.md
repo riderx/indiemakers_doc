@@ -9,7 +9,7 @@ description: Gérer ses projets
 Le **hashtag** est un mot seulement composé de lettre sans espace ni caractères spéciaux, il servira a identifier ton projet et doit être unique.
 
 ```text
-/im projet ajouter hashtag: indiemaker
+/im projet ajouter hashtag: indiemakers
 ```
 
 ## Modifier :hashtag
