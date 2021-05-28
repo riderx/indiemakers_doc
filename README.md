@@ -4,13 +4,13 @@ Bienvenue sur la documentation du Bot de la communauté!
 
 Ce bot est fait pour t'aider à avancer sur tes projets facilement !
 
-Il permet de :
+Il te permet de :
 
 * Donner/prendre du karma
-* Gerer son profil
+* Gerer ton profil
 * Crée des projets
-* Mettre des taches sur un projet
-* Mettre des revenues/ dépenses sur un projet
+* Mettre des taches sur ton projet
+* Mettre des revenues/ dépenses sur ton projet
 
 Le bot automatise certainges taches aussi:
 
