@@ -33,3 +33,7 @@ Si tu souhaites retrouver cette doc : `/im doc` dans nimporte quel salon
 
 Je te conseille de gérer tes projets et profil sur le salon `construire en public`, sur ce salon les notifications sont désactivés pour que tu puisses poster sans déranger les autres makers !
 
+{% embed url="https://www.youtube.com/watch?v=qrXN3Mai1Gw" %}
+
+
+

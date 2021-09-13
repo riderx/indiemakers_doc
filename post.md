@@ -4,6 +4,10 @@ description: Gérer ses posts sur le site indie makers
 
 # 📰 Post
 
+## Demo
+
+{% embed url="https://www.youtube.com/watch?v=Z8q4HNhiwLg" %}
+
 ## Ajouter :hashtag
 
 Cela te permet d'ajouter un post, a un projet.

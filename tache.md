@@ -17,7 +17,7 @@ Par default les tache sont crée en status "Fait" si tu ne precise pas.
   * Fait
 
 ```text
-/im tache ajouter hashtag: indiemakers contenue: Mise a jours de la doc
+/im tache ajouter hashtag: indiemaker contenue: Mise a jours de la doc
 ```
 
 ## Modifier :hashtag :Id
@@ -33,7 +33,7 @@ Cela te permet de modifier une tache d'un projet, voici les valeurs que tu peux 
   * Fait
 
 ```text
-/im tache modifier hashtag: indiemakers id: 0 contenue: Mise a jours de la doc
+/im tache modifier hashtag: indiemakers tache contenue: Mise a jours de la doc
 ```
 
 ## Liste :hashtag
@@ -57,6 +57,6 @@ Cela te permet de voir la liste de toutes les tâches d'un projet d'un Maker.
 Cela te permet de supprimer une tache d'un projet qui t'appartient
 
 ```text
-/im projet supprimer hashtag: indiemaker id: 0
+/im projet supprimer: indiemaker
 ```
 
