@@ -15,7 +15,7 @@ Un seul revenu par mois ! Si tu l'as déjà rentré modifie
 * **année**: Année du revenu
 
 ```text
-/im revenue ajouter hashtag: indiemaker contenue: Mise a jours de la doc
+/im revenue ajouter hashtag: indiemakers contenue: Mise a jours de la doc
 ```
 
 ## Modifier :hashtag :Id
@@ -30,7 +30,7 @@ Cela te permet de modifier une tache d'un projet, voici les valeurs que tu peux 
 * **année**: Année du revenu
 
 ```text
-/im revenue modifier hashtag: indiemakers tache contenue: Mise a jours de la doc
+/im revenue modifier hashtag: indiemakers id :0 contenue: Mise a jours de la doc
 ```
 
 ## Liste :hashtag
@@ -54,6 +54,6 @@ Cela te permet de voir la liste de toutes les revenues d'un projet d'un Maker.
 Cela te permet de supprimer un revenu d'un projet qui t'appartient
 
 ```text
-/im projet supprimer: indiemaker
+/im projet supprimer hashtag: indiemakers id: 0
 ```
 

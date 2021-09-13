@@ -94,7 +94,7 @@ Cela te permet de voir la liste de tous les projets d'un Maker
 Cela te permet de voir un projet qui t'appartient
 
 ```text
-/im projet voir hashtag
+/im projet voir hashtag: indiemakers
 ```
 
 ## Voir :hashtag @Mention
@@ -110,6 +110,6 @@ Cela te permet de voir un projet d'un autre maker
 Cela te permet de supprimer un projet qui t'appartient
 
 ```text
-/im projet supprimer: indiemaker
+/im projet supprimer hashtag: indiemaker
 ```
 

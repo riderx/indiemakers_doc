@@ -6,4 +6,5 @@
 * [🪴 Projet](projet.md)
 * [💗 Tache](tache.md)
 * [💰 Revenue](revenue.md)
+* [📰 Post](post.md)
 

@@ -60,7 +60,7 @@ Copie l'api key et ajoute a ton profil via le bot, cette Api key ne sera jamais 
 Cela te permet de voir le karma d'un Maker
 
 ```text
-/im maker voir @martindonadieu
+/im maker voir maker: @martindonadieu
 ```
 
 ## Liste
